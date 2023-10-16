@@ -1,5 +1,4 @@
-name: calculator
-publisher: js.work
+name: jsw_calculator
 description: My first dart calculator.
 version: 1.0.0
 homepage: https://js.work
