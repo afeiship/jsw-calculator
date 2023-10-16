@@ -1,7 +1,8 @@
 name: calculator
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://js.work
+repository: https://github.com/afeiship/dart-calculator
 
 environment:
   sdk: ^3.1.3
