@@ -1,4 +1,4 @@
-import 'package:calculator/calculator.dart';
+import 'package:jsw_calculator/calculator.dart';
 
 void main() {
   final res1 = add(1, 2);

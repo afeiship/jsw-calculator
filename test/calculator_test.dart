@@ -1,4 +1,4 @@
-import 'package:calculator/calculator.dart';
+import 'package:jsw_calculator/calculator.dart';
 import 'package:test/test.dart';
 
 void main() {
