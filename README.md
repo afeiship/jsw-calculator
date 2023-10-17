@@ -1,2 +1,2 @@
-# dart-calculater
+# jsw-calculator
 > My first dart calculator.
