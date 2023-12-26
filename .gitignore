@@ -1,7 +1,16 @@
-# https://dart.dev/guides/libraries/private-files
-# Created by `dart pub`
-.dart_tool/
+node_modules
+bower_components
+coverage
+.DS_Store
+.idea
+.vscode
 
-# Avoid committing pubspec.lock for library packages; see
-# https://dart.dev/guides/libraries/private-files#pubspeclock.
-pubspec.lock
+# vscode localhistory
+.history
+dist
+
+# package manager
+npm-debug.log
+yarn.lock
+package-lock.json
+pnpm-lock.yaml
