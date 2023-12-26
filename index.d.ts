@@ -1,3 +1,5 @@
 interface NxStatic {
-  NodeToolkits: any;
+  NodeToolkits: {
+    create(opts?: any): any;
+  };
 }

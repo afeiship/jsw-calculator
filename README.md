@@ -15,7 +15,7 @@ yarn add @jswork/next-node-toolkits
 ```js
 import '@jswork/next-node-toolkits';
 
-//DOCS here!
+nx.NodeToolkits.create();
 ```
 
 ## license
