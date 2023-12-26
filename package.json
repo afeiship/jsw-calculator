@@ -1,6 +1,6 @@
 {
   "name": "@jswork/next-node-toolkits",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node toolkits based on next.",
   "homepage": "https://js.work",
   "author": {
@@ -64,5 +64,10 @@
     "@jswork/next-param": "^1.0.12",
     "@jswork/next-qs": "^1.0.9",
     "@jswork/next-sets": "^1.0.5"
-  }
+  },
+  "keywords": [
+    "nodejs",
+    "toolkits",
+    "utility"
+  ]
 }
