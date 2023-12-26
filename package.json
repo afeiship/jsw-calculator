@@ -34,11 +34,7 @@
     "uglify-save-license": "^0.4.1"
   },
   "babel": {
-    "presets": [
-      [
-        "@babel/preset-env"
-      ]
-    ]
+    "presets": [["@babel/preset-env"]]
   },
   "publishConfig": {
     "access": "public",
@@ -65,9 +61,5 @@
     "@jswork/next-qs": "^1.0.9",
     "@jswork/next-sets": "^1.0.5"
   },
-  "keywords": [
-    "nodejs",
-    "toolkits",
-    "utility"
-  ]
+  "keywords": ["nodejs", "toolkits", "utility"]
 }
