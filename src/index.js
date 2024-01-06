@@ -6,6 +6,7 @@ import '@jswork/next-camelize';
 import '@jswork/next-capitalize';
 import '@jswork/next-classify';
 import '@jswork/next-compact-object';
+import '@jswork/next-date';
 import '@jswork/next-deep-assign';
 import '@jswork/next-deep-clone';
 import '@jswork/next-deep-each';
