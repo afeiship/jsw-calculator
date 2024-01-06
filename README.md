@@ -25,6 +25,7 @@ nx.NodeToolkits.create();
 /// <reference types="@jswork/next-capitalize/index.d.ts" />
 /// <reference types="@jswork/next-classify/index.d.ts" />
 /// <reference types="@jswork/next-compact-object/index.d.ts" />
+/// <reference types="@jswork/next-date/index.d.ts" />
 /// <reference types="@jswork/next-deep-assign/index.d.ts" />
 /// <reference types="@jswork/next-deep-clone/index.d.ts" />
 /// <reference types="@jswork/next-deep-each/index.d.ts" />
